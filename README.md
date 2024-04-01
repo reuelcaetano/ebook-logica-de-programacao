@@ -4,7 +4,7 @@ Esse repositório será utilizado para compartilhar primariamente o índice de c
 
 O conteúdo será organizado em módulos, capítulos e tópicos que serão entregues de forma incremental a medida que forem sendo finalizados.
 
-Caso queira deixar alguma sugestão ou informar algum erro gramátical, crie uma issue.
+Caso queira deixar alguma sugestão ou informar algum erro gramatical, crie uma issue.
 
 ## Sumário
 ### Ambiente
