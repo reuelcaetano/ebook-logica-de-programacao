@@ -18,3 +18,6 @@ Caso queira deixar alguma sugestão ou informar algum erro gramatical, crie uma 
     - Instalação do VS Code no Linux
     - Instalação do Python no Windows
     - Instalação do VS Code no Windows
+### Hello World
+3. I/O de dados e help
+    - Apresentar o shell do Python
