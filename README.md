@@ -21,3 +21,5 @@ Caso queira deixar alguma sugestão ou informar algum erro gramatical, crie uma 
 ### Hello World
 3. I/O de dados e help
     - Apresentar o shell do Python
+    - As funções I/O: print e input
+    - Help da linguagem
