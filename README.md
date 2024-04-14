@@ -23,3 +23,7 @@ Caso queira deixar alguma sugestão ou informar algum erro gramatical, crie uma 
     - Apresentar o shell do Python
     - As funções I/O: print e input
     - Help da linguagem
+4. Python como uma calculadora
+    - Conceituar o que é token
+    - Expressões aritméticas
+    - Easter eggs
