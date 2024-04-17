@@ -27,3 +27,10 @@ Caso queira deixar alguma sugestão ou informar algum erro gramatical, crie uma 
     - Conceituar o que é token
     - Expressões aritméticas
     - Easter eggs
+### Aquecer Motores
+5. Variáveis e tipos de dados
+    - Comentários
+    - Variáveis, constantes e convenções
+    - Tipos de dados
+    - Conversão de tipos
+    - Compreensão de listas
