@@ -34,3 +34,7 @@ Caso queira deixar alguma sugestão ou informar algum erro gramatical, crie uma 
     - Tipos de dados
     - Conversão de tipos
     - Compreensão de listas
+6. Operadores
+    - Operadores lógicos
+    - Operadores relacionais
+    - Operadores aritméticos
