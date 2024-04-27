@@ -38,3 +38,6 @@ Caso queira deixar alguma sugestão ou informar algum erro gramatical, crie uma 
     - Operadores lógicos
     - Operadores relacionais
     - Operadores aritméticos
+7. Condicionais
+    - Seleção com if, elif e else
+    - Seleção com match/case
