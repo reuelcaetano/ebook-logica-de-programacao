@@ -41,6 +41,7 @@ Caso queira deixar alguma sugestão ou informar algum erro gramatical, crie uma 
 7. Condicionais
     - Seleção com if, elif e else
     - Seleção com match/case
+### Estruturar Blocos
 8. Estruturas de repetições
     - Laço definido com for
     - Laço indefinido com while
