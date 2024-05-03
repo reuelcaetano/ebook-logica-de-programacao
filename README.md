@@ -45,3 +45,9 @@ Caso queira deixar alguma sugestão ou informar algum erro gramatical, crie uma 
 8. Estruturas de repetições
     - Laço definido com for
     - Laço indefinido com while
+9. Funções
+    - Assinatura e documentação
+    - Decoradores
+    - Recursividade
+      - Contador simples
+      - Sequência de Fibonnacci
