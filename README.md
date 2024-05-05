@@ -51,6 +51,7 @@ Caso queira deixar alguma sugestão ou informar algum erro gramatical, crie uma 
     - Recursividade
       - Contador simples
       - Sequência de Fibonnacci
+### Persistir
 10. Persistir
     - Manipulação de arquivos
     - Tratamento de erros
