@@ -31,7 +31,7 @@ Caso queira deixar alguma sugestão ou informar algum erro gramatical, crie uma 
 5. Variáveis e tipos de dados
     - Comentários
     - Variáveis, constantes e convenções
-    - Tipos de dados
+    - Tipos e estruturas de dados
     - Conversão de tipos
     - Compreensão de listas
 6. Operadores
