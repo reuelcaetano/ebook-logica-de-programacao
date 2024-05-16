@@ -55,3 +55,14 @@ Caso queira deixar alguma sugestão ou informar algum erro gramatical, crie uma 
 10. Persistir
     - Manipulação de arquivos
     - Tratamento de erros
+### Modelar
+11. Orientação a objetos
+    - Conceito de classes
+    - Método construtor
+    - Atributos métodos e convenção
+    - Métodos estáticos com decoradores
+    - Getters e setters com decoradores
+    - Herança
+    - Objetos e instância
+    - Aplicação prática
+      - Modelagem de espécies animais
