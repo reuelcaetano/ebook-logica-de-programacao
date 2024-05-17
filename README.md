@@ -66,3 +66,6 @@ Caso queira deixar alguma sugestão ou informar algum erro gramatical, crie uma 
     - Objetos e instância
     - Aplicação prática
       - Modelagem de espécies animais
+### Organizar
+12. Ambiente e entry-point
+    - Import e ponto de entrada
