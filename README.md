@@ -69,3 +69,8 @@ Caso queira deixar alguma sugestão ou informar algum erro gramatical, crie uma 
 ### Organizar
 12. Ambiente e entry-point
     - Import e ponto de entrada
+13. Bibliotecas e módulos
+    - Módulos e funções built-in
+    - Pip e novas bibliotecas
+    - Outras bibliotecas
+    - Considerações finais
