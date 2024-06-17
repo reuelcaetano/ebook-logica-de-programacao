@@ -1,4 +1,9 @@
-![ebook-cover](https://github.com/reuelcaetano/ebook-logica-de-programacao/assets/27034205/8333f247-1fab-4969-8a91-53641a77f03a)
+<div align="center">
+    <img
+        src="https://github.com/reuelcaetano/ebook-logica-de-programacao/assets/27034205/8333f247-1fab-4969-8a91-53641a77f03a.png"
+        width="400px"
+    >
+</div>
 # Lógica de Programação (ebook)
 
 Esse repositório será utilizado para compartilhar primariamente o índice de conteúdo que será abordado no material além de uma versão demo que será disponibilizada até o capítulo 4 do módulo Hello World para possibilitar a verificação da organização e da didática do ebook por parte do interessado.
