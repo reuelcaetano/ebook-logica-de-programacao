@@ -9,68 +9,75 @@ Caso queira deixar alguma sugestão ou informar algum erro gramatical, crie uma 
 ## Sumário
 ### Ambiente
 1. Introdução
-    - Conteúdo programático
-    - Orientações de como estudar
-    - História da linguagem Python
-2. Preparando o ambiente
-    - Documentação oficial da linguagem Python
+    - Conteúdo Programático
+    - Orientações de Como Estudar
+    - História da Linguagem Python
+2. Preparando o Ambiente
+    - Documentação Oficial da Linguagem Python
     - Instalação do Python no Linux
     - Instalação do VS Code no Linux
     - Instalação do Python no Windows
     - Instalação do VS Code no Windows
 ### Hello World
-3. I/O de dados e help
-    - Apresentar o shell do Python
-    - As funções I/O: print e input
-    - Help da linguagem
-4. Python como uma calculadora
-    - Conceituar o que é token
-    - Expressões aritméticas
-    - Easter eggs
+3. I/O de Dados e Help
+    - Apresentar o Shell do Python
+    - Usando as Funções print e input
+    - Help da Linguagem
+4. Python Como uma Calculadora
+    - Conceituar o que é Token
+    - Expressões Aritméticas
+    - Easter Eggs
+    - Exercícios
 ### Aquecer Motores
-5. Variáveis e tipos de dados
+5. Variáveis e Tipos de Dados
     - Comentários
-    - Variáveis, constantes e convenções
-    - Tipos e estruturas de dados
-    - Conversão de tipos
-    - Compreensão de listas
+    - Variáveis, Constantes e Convenções
+    - Tipos e Estruturas de Dados
+    - Conversão de Tipos
+    - Compreensão de Listas
+    - Exercícios
 6. Operadores
-    - Operadores lógicos
-    - Operadores relacionais
-    - Operadores aritméticos
+    - Operadores Lógicos
+    - Operadores Relacionais
+    - Operadores Aritméticos
+    - Exercícios
 7. Condicionais
     - Seleção com if, elif e else
     - Seleção com match/case
 ### Estruturar Blocos
-8. Estruturas de repetições
-    - Laço definido com for
-    - Laço indefinido com while
+8. Estruturas de Repetições
+    - Laço Definido com for
+    - Laço Indefinido com while
 9. Funções
-    - Assinatura e documentação
+    - Assinatura e Documentação
+    - Type Hints
     - Decoradores
     - Recursividade
-      - Contador simples
+      - Contador Simples
       - Sequência de Fibonnacci
+    - Exercícios
 ### Persistir
-10. Persistir
-    - Manipulação de arquivos
-    - Tratamento de erros
+10. Arquivos e Exceções
+    - Manipulação de Arquivos
+    - Tratamento de Erros
+    - Exercícios
 ### Modelar
-11. Orientação a objetos
-    - Conceito de classes
-    - Método construtor
-    - Atributos métodos e convenção
-    - Métodos estáticos com decoradores
-    - Getters e setters com decoradores
+11. Orientação a Objetos
+    - Conceito de Classes
+    - Método Construtor
+    - Atributos, Métodos e Convenção
+    - Métodos Estáticos com Decoradores
+    - Getters e Setters com Decoradores
     - Herança
-    - Objetos e instância
-    - Aplicação prática
-      - Modelagem de espécies animais
+    - Objetos e Instância
+    - Aplicação Prática
+      - Modelagem de Espécies Animais
+    - Exercícios
 ### Organizar
-12. Ambiente e entry-point
-    - Import e ponto de entrada
-13. Bibliotecas e módulos
-    - Módulos e funções built-in
-    - Pip e novas bibliotecas
-    - Outras bibliotecas
-    - Considerações finais
+12. Ambiente e Entry-Point
+    - Import e Ponto de Entrada
+13. Bibliotecas e Módulos
+    - Módulos e Funções Built-in
+    - Pip e Novas Bibliotecas
+    - Outras Bibliotecas
+    - Considerações Finais
