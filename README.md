@@ -4,6 +4,7 @@
         width="400px"
     >
 </div>
+
 # Lógica de Programação (ebook)
 
 Esse repositório será utilizado para compartilhar primariamente o índice de conteúdo que será abordado no material além de uma versão demo que será disponibilizada até o capítulo 4 do módulo Hello World para possibilitar a verificação da organização e da didática do ebook por parte do interessado.
